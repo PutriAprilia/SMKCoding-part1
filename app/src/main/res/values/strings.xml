@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GO-TEK</string>
+    <string name="image">image</string>
+    <string name="nama">Nama</string>
+    <string name="putri_aprilia">Putri Aprilia</string>
+    <string name="no_hp">No_hp</string>
+    <string name="_089636607936">089636607936</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="masukkan_email">masukkan email</string>
+    <string name="masukkan_password">masukkan password</string>
+    <string name="login">LOGIN</string>
+</resources>
